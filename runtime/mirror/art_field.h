@@ -17,7 +17,7 @@
 #ifndef ART_RUNTIME_MIRROR_ART_FIELD_H_
 #define ART_RUNTIME_MIRROR_ART_FIELD_H_
 
-#include <jni.h>
+#include <nativehelper/jni.h>
 
 #include "gc_root.h"
 #include "modifiers.h"

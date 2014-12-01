@@ -17,7 +17,7 @@
 #ifndef ART_RUNTIME_JNI_INTERNAL_H_
 #define ART_RUNTIME_JNI_INTERNAL_H_
 
-#include "jni.h"
+#include <nativehelper/jni.h>
 
 #include "base/macros.h"
 #include "base/mutex.h"

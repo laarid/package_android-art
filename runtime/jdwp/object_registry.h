@@ -17,7 +17,7 @@
 #ifndef ART_RUNTIME_JDWP_OBJECT_REGISTRY_H_
 #define ART_RUNTIME_JDWP_OBJECT_REGISTRY_H_
 
-#include <jni.h>
+#include <nativehelper/jni.h>
 #include <stdint.h>
 
 #include <map>

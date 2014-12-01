@@ -18,7 +18,7 @@
 #define ART_RUNTIME_THREAD_LIST_H_
 
 #include "base/mutex.h"
-#include "jni.h"
+#include <nativehelper/jni.h>
 #include "object_callbacks.h"
 
 #include <bitset>

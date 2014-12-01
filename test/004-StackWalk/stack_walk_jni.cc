@@ -23,7 +23,7 @@
 #include "mirror/class-inl.h"
 #include "mirror/object_array-inl.h"
 #include "mirror/object-inl.h"
-#include "jni.h"
+#include <nativehelper/jni.h>
 #include "scoped_thread_state_change.h"
 
 namespace art {

@@ -19,7 +19,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#include "jni.h"
+#include <nativehelper/jni.h>
 
 #include <sys/ucontext.h>
 

@@ -35,7 +35,7 @@
 #include "gc/accounting/card_table-inl.h"
 #include "indirect_reference_table-inl.h"
 #include "interpreter/interpreter.h"
-#include "jni.h"
+#include <nativehelper/jni.h>
 #include "mirror/art_field-inl.h"
 #include "mirror/art_method-inl.h"
 #include "mirror/class-inl.h"

@@ -18,7 +18,7 @@
 #define ART_RUNTIME_COMMON_RUNTIME_TEST_H_
 
 #include <gtest/gtest.h>
-#include <jni.h>
+#include <nativehelper/jni.h>
 
 #include <string>
 

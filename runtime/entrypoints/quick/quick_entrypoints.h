@@ -17,7 +17,7 @@
 #ifndef ART_RUNTIME_ENTRYPOINTS_QUICK_QUICK_ENTRYPOINTS_H_
 #define ART_RUNTIME_ENTRYPOINTS_QUICK_QUICK_ENTRYPOINTS_H_
 
-#include <jni.h>
+#include <nativehelper/jni.h>
 
 #include "base/macros.h"
 #include "offsets.h"

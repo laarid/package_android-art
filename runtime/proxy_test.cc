@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include <jni.h>
+#include <nativehelper/jni.h>
 #include <vector>
 
 #include "common_compiler_test.h"

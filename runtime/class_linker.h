@@ -27,7 +27,7 @@
 #include "dex_file.h"
 #include "gc_root.h"
 #include "gtest/gtest.h"
-#include "jni.h"
+#include <nativehelper/jni.h>
 #include "oat_file.h"
 #include "object_callbacks.h"
 

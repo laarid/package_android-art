@@ -19,7 +19,7 @@
 #include <pthread.h>
 #include <vector>
 
-#include "jni.h"
+#include <nativehelper/jni.h>
 
 #if defined(NDEBUG)
 #error test code compiled without NDEBUG

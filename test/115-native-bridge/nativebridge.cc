@@ -20,7 +20,7 @@
 #include <dlfcn.h>
 #include <vector>
 
-#include "jni.h"
+#include <nativehelper/jni.h>
 #include "stdio.h"
 #include "unistd.h"
 

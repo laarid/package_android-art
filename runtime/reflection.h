@@ -17,7 +17,7 @@
 #ifndef ART_RUNTIME_REFLECTION_H_
 #define ART_RUNTIME_REFLECTION_H_
 
-#include "jni.h"
+#include <nativehelper/jni.h>
 #include "primitive.h"
 
 namespace art {

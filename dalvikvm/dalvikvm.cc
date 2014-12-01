@@ -21,7 +21,7 @@
 #include <algorithm>
 #include <memory>
 
-#include "jni.h"
+#include <nativehelper/jni.h>
 #include "JniInvocation.h"
 #include "ScopedLocalRef.h"
 #include "toStringArray.h"

@@ -17,7 +17,7 @@
 #ifndef ART_RUNTIME_ENTRYPOINTS_ENTRYPOINT_UTILS_H_
 #define ART_RUNTIME_ENTRYPOINTS_ENTRYPOINT_UTILS_H_
 
-#include <jni.h>
+#include <nativehelper/jni.h>
 #include <stdint.h>
 
 #include "base/macros.h"

@@ -25,7 +25,7 @@
 #include "base/timing_logger.h"
 #include "globals.h"
 #include "gtest/gtest.h"
-#include "jni.h"
+#include <nativehelper/jni.h>
 #include "object_callbacks.h"
 #include "offsets.h"
 #include "thread_pool.h"

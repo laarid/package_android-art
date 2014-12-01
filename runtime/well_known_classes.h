@@ -18,7 +18,7 @@
 #define ART_RUNTIME_WELL_KNOWN_CLASSES_H_
 
 #include "base/mutex.h"
-#include "jni.h"
+#include <nativehelper/jni.h>
 
 namespace art {
 namespace mirror {

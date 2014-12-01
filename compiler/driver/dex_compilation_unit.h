@@ -20,7 +20,7 @@
 #include <stdint.h>
 
 #include "dex_file.h"
-#include "jni.h"
+#include <nativehelper/jni.h>
 
 namespace art {
 namespace mirror {

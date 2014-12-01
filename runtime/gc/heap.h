@@ -33,7 +33,7 @@
 #include "globals.h"
 #include "gtest/gtest.h"
 #include "instruction_set.h"
-#include "jni.h"
+#include <nativehelper/jni.h>
 #include "object_callbacks.h"
 #include "offsets.h"
 #include "reference_processor.h"

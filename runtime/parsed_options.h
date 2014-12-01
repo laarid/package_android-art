@@ -20,7 +20,7 @@
 #include <string>
 #include <vector>
 
-#include <jni.h>
+#include <nativehelper/jni.h>
 
 #include "globals.h"
 #include "gc/collector_type.h"

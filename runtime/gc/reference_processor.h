@@ -19,7 +19,7 @@
 
 #include "base/mutex.h"
 #include "globals.h"
-#include "jni.h"
+#include <nativehelper/jni.h>
 #include "object_callbacks.h"
 #include "reference_queue.h"
 

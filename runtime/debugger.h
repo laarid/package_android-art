@@ -29,7 +29,7 @@
 #include <vector>
 
 #include "jdwp/jdwp.h"
-#include "jni.h"
+#include <nativehelper/jni.h>
 #include "jvalue.h"
 #include "object_callbacks.h"
 #include "thread_state.h"

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include "jni.h"
+#include <nativehelper/jni.h>
 #include "mirror/array.h"
 #include "mirror/art_method-inl.h"
 #include "mirror/class.h"

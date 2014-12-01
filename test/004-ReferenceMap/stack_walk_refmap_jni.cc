@@ -26,7 +26,7 @@
 #include "mirror/object-inl.h"
 #include "scoped_thread_state_change.h"
 #include "thread.h"
-#include "jni.h"
+#include <nativehelper/jni.h>
 #include "verifier/method_verifier.h"
 
 namespace art {

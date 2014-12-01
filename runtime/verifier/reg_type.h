@@ -22,7 +22,7 @@
 #include <set>
 #include <string>
 
-#include "jni.h"
+#include <nativehelper/jni.h>
 
 #include "base/macros.h"
 #include "gc_root.h"
