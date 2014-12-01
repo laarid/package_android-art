@@ -21,7 +21,7 @@
 #include "base/logging.h"
 #include "base/mutex.h"
 #include "thread-inl.h"
-#include <memcheck/memcheck.h>
+#include <memcheck.h>
 
 namespace art {
 

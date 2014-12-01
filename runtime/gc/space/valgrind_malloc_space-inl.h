@@ -19,7 +19,7 @@
 
 #include "valgrind_malloc_space.h"
 
-#include <memcheck/memcheck.h>
+#include <memcheck.h>
 
 namespace art {
 namespace gc {

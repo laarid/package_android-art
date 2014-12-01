@@ -21,7 +21,7 @@
 
 #include <iostream>
 #include <valgrind.h>
-#include <memcheck/memcheck.h>
+#include <memcheck.h>
 
 namespace art {
 namespace gc {
